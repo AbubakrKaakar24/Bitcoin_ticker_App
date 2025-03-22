@@ -1,2 +1,2 @@
-# Bitcoin_ticker_App
+# Crypto_Ticker_App
 It is Flutter Mobile App
